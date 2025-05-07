@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rivalpCoder.github.io/myportfolio",
+  "homepage": ".",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "@testing-library/dom": "^10.4.0",
@@ -28,7 +28,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "node deploy.js",
+    "deploy": "node deploy-updated.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
