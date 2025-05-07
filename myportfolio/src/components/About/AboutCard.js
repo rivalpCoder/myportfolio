@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at TCS.
             <br />
-            I have completed  M.Sc in Chemistry Hounors.
+            I have completed  M.Sc in Chemistry Honours.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
